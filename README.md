@@ -25,9 +25,13 @@
 
 <h3 align="center">### :hammer_and_wrench: Languages and Tools :</h3>
 <p align="center">
-<img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-<img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain.svg" title="Cucumber" alt="Cucumber" width="40" height="40"/>&nbsp;
-<img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" title="IntelliJ" alt="IntelliJ" width="40" height="40"/>&nbsp;
+<a href="https://www.java.com/" target="_blank"><img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/ProgrammingLanguages/java.svg" alt="Java" width="50" height="50" /></a>
+<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="45"/> </a>
+<a href="https://www.selenium.dev/" target="_blank"> <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Testing/selenium.svg" alt="selenium" width="50" height="45"/> </a>
+<a href="https://www.microsoft.com/tr-tr/sql-server/sql-server-downloads" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="microsoft-sql-server" width="50" height="50"/> </a>
+<a href="https://cucumber.io/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/cucumber/cucumber-plain.svg" alt="cucumber" width="50" height="45"/> </a>
+<a href="https://code.visualstudio.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="visualstudiocode" width="50" height="45"/> </a>
+
 </p>
 
 <h2 align = center>GitHub Stats</h2>
