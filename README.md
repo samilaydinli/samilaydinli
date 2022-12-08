@@ -1,19 +1,14 @@
 <h1 align="center">Hi 👋, I'm Samil</h1>
 
-<h3 align="center">A young guy who try to become a Test Engineer</h3>
+<h3 align="center">A young guy who trying to become a Test Engineer</h3>
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=samilaydinli alt=samilaydinli/> </p>
 
-<!--
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me:  **samilaydinli37@gmail.com**
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on random Test Scenarios to improve my Test Design and skills.
+- 🌱 I’m currently learning Selenium,Karate,SQL
+
+- 📫 How to reach me  **samilaydinli37@gmail.com**
+
 
 <h3 align=left">Connect with me :</h3>
 <p align="left">
