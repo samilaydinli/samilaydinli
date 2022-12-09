@@ -26,6 +26,7 @@
 <a href="https://www.microsoft.com/tr-tr/sql-server/sql-server-downloads" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="microsoft-sql-server" width="50" height="50"/> </a>
 <a href="https://cucumber.io/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/cucumber/cucumber-plain.svg" alt="cucumber" width="50" height="45"/> </a>
 <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="visualstudiocode" width="50" height="45"/> </a>
+<a href="https://www.jetbrains.com/idea/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" alt="visualstudiocode" width="50" height="45"/> </a>
 
 </p>
 
